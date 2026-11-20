@@ -10,7 +10,7 @@
         },
         fr: {
             text: "Ce site utilise des cookies essentiels pour assurer son bon fonctionnement.",
-            button: "Compris"
+            button: "J'ai compris"
         },
         it: {
             text: "Questo sito utilizza cookie essenziali per garantire il corretto funzionamento.",
